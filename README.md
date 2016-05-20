@@ -1,5 +1,5 @@
 # TicTacToe Drawing Application
-A simple iOS tic tac toe which lets users freely draw their moves and the game board.
+A simple Tic-Tac-Toe iOS application that allows the users to draw everything by hand - the board, the X's and the O's.
 
 ##Playing the Game
  - The game starts with a blank screen, in which the players draw the initial game board. Multi-touch gestures are available as well to draw the initial board.
