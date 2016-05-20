@@ -23,7 +23,7 @@ A simple Tic-Tac-Toe iOS application that allows the users to draw everything by
  ####X's
  - To meet the O requirements, the beginning point of the O is compared to the ending point of the O.
  
- ####Turn
+ ####Turns
  - The touch strokes are also checked in regards to the validity of if each player is drawing the initial symbol they each have drawn.
 
 There are obviously some opportunities for exploitation which would result the game to accept invalid moves. This needs to be addressed but isn't an immediate concern.
